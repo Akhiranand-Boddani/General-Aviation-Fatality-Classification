@@ -29,10 +29,10 @@ This repository contains code and sample data for classifying general aviation a
 general-aviation-fatality-classification/
 │
 ├── 1_Final EDA.ipynb # Exploratory Data Analysis
-├── 2_Model 60-40.ipynb # Model training on 60 - 40 Train Test Split
-├── 3_Model 70-30.ipynb # Model training on 70 - 30 Train Test Split
-├── 4_Model 80-20.ipynb # Model training on 80 - 20 Train Test Split
-├── 3_Predictions.ipynb # Sample predictions
+├── 2_Model_60-40.ipynb # Model training on 60-40 Train-Test Split
+├── 3_Model_70-30.ipynb # Model training on 70-30 Train-Test Split
+├── 4_Model_80-20.ipynb # Model training on 80-20 Train-Test Split
+├── 5_Predictions.ipynb # Sample predictions and inference
 ├── sample_ADC_fil.csv # Example subset of dataset
 ├── README.md
 ├── requirements.txt
